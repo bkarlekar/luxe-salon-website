@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/luxe-salon-website/static/css/main.f855e6bc.css",
-    "main.js": "/luxe-salon-website/static/js/main.f93b85b2.js",
+    "main.css": "/luxe-salon-website/static/css/main.e6c13ad2.css",
+    "main.js": "/luxe-salon-website/static/js/main.77c154ed.js",
     "static/js/453.b87c05c3.chunk.js": "/luxe-salon-website/static/js/453.b87c05c3.chunk.js",
-    "static/media/logo.svg": "/luxe-salon-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/luxe-salon-website/index.html",
-    "main.f855e6bc.css.map": "/luxe-salon-website/static/css/main.f855e6bc.css.map",
-    "main.f93b85b2.js.map": "/luxe-salon-website/static/js/main.f93b85b2.js.map",
+    "main.e6c13ad2.css.map": "/luxe-salon-website/static/css/main.e6c13ad2.css.map",
+    "main.77c154ed.js.map": "/luxe-salon-website/static/js/main.77c154ed.js.map",
     "453.b87c05c3.chunk.js.map": "/luxe-salon-website/static/js/453.b87c05c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.f93b85b2.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.77c154ed.js"
   ]
 }
